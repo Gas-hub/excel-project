@@ -8,7 +8,10 @@
   "rules": {
     "semi": "off",
     "comma-dangle": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "operator-linebreak": "off",
+    "prefer-const": "off",
+    "linebreak-style": [2, "windows"]
   },
   "extends": ["eslint:recommended", "google"]
 }
